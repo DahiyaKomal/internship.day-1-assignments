@@ -1,2 +1,2 @@
 Virtual Internship CEI Design 
-"Day - 1 Assignments completed
+"Day - 1 Assignments" completed
