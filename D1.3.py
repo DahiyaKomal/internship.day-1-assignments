@@ -1,4 +1,4 @@
-x = "Komal"  #create a variable x and store a string value using ""
+x = "Komal"  #create a variable x and store a string value using ""..
 y = "Dahiya" #create another variable named y and store a string value
 
 print(x)     #printing the 1st variable named x
