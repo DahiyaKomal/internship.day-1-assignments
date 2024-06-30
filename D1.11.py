@@ -1,4 +1,4 @@
-#a func. that takes 2 numbers as arguments and return their sum.
+#a func. that takes 2 numbers as arguments and return their sum...
 
 def sum(u, v):
     return u + v
